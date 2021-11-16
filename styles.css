@@ -1,0 +1,48 @@
+h1 {
+    display: inline-block;
+    width: 100%;
+    background-color: cyan;
+}
+span {
+    color: blue;
+}
+
+.images {
+    display: flex;
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+  h3 {
+      color: orange;
+      font-size: 2em;
+      text-transform: capitalize;
+  }
+
+  a:link {
+    color:blue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  .box-model {
+      padding: 5px;
+      margin: 10%;
+  }
+   #tree{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+  
